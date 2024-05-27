@@ -1,3 +1,8 @@
-# Small Gastronomy Project
+# Contact Information
 
-This repository contains the conceptual project of a small gastronomy place. It includes the menu, description of the place, contact information, business plan, and a gallery of images.
+- **Address**: 123 Main Street, City, Country
+- **Phone**: (123) 456-7890
+- **Email**: info@pizzeria.com
+- **Opening Hours**:
+  - Monday to Friday: 11:00 AM - 10:00 PM
+  - Saturday and Sunday: 12:00 PM - 11:00 PM

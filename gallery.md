@@ -1,3 +1,10 @@
-# Small Gastronomy Project
+# Gallery
 
-This repository contains the conceptual project of a small gastronomy place. It includes the menu, description of the place, contact information, business plan, and a gallery of images.
+![Interior](images/interior.jpg)
+Our cozy interior designed to make you feel at home.
+
+![Pizza](images/pizza.jpg)
+A delicious Margherita pizza straight from the oven.
+
+![Logo](images/logo.png)
+Our pizzeria logo.

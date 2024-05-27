@@ -1,3 +1,15 @@
-# Small Gastronomy Project
+# Menu
 
-This repository contains the conceptual project of a small gastronomy place. It includes the menu, description of the place, contact information, business plan, and a gallery of images.
+## Pizzas
+- **Margherita** - $10
+  - Classic pizza with tomato sauce, mozzarella, and fresh basil.
+- **Pepperoni** - $12
+  - Spicy pepperoni, mozzarella, and tomato sauce.
+- **Veggie** - $11
+  - A mix of seasonal vegetables, mozzarella, and tomato sauce.
+
+## Drinks
+- **Soda** - $2
+  - Choose from cola, lemon-lime, or root beer.
+- **Water** - $1
+  - Bottled still water.
