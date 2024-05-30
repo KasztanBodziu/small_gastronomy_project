@@ -8,6 +8,13 @@
 - **Four Cheese**: Tomato sauce, mozzarella, parmesan, gorgonzola, goat cheese - $13.49
 - **Vegetarian**: Tomato sauce, mozzarella, bell peppers, onions, mushrooms, olives - $12.49
 
+### Gourmet Pizzas
+- **Truffle Mushroom**: Truffle cream sauce, mozzarella, mushrooms, arugula - $14.99
+- **BBQ Chicken**: BBQ sauce, mozzarella, grilled chicken, red onions, cilantro - $13.99
+- **Prosciutto Arugula**: Tomato sauce, mozzarella, prosciutto, arugula, shaved parmesan - $14.49
+- **Spicy Sausage**: Tomato sauce, mozzarella, spicy Italian sausage, bell peppers - $13.99
+- **Seafood**: Tomato sauce, mozzarella, shrimp, calamari, garlic, parsley - $15.99
+
 
 ## Appetizers
 ### Garlic Bread
