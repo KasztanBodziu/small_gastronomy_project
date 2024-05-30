@@ -9,5 +9,5 @@ A delicious pizza straight from the oven.
 ![Pizza](pizza3.jpg)
 Another delicious pizza straight from the oven.
 
-![Logo](pizza4.jng)
+![Dish](pizza4.jng)
 Our diffrent dish - still delicious.
