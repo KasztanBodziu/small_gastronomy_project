@@ -34,3 +34,6 @@ We look forward to welcoming you to Ouzza Restaurant!
 ## Special Features
 ### Customizable Menu
 One of the highlights of dining at Ouzza Restaurant is the ability to customize your meal. Our build-your-own pizza option allows you to create a pizza that perfectly suits your tastes. Choose from a wide range of toppings and watch as our chefs prepare your pizza in our open kitchen.
+
+### Catering and Events
+Planning a special event? Ouzza Restaurant offers catering services for parties, corporate events, and family gatherings. Our team will work with you to create a customized menu that fits your needs and ensures a memorable experience for your guests. We also offer private dining options for those looking to host an event in a more intimate setting.
