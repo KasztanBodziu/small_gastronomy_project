@@ -9,6 +9,9 @@ Ouzza Restaurant features a harmonious blend of modern and rustic design element
 ### Indoor Seating
 Our indoor dining area is spacious and comfortable, accommodating up to 50 guests. The seating arrangements are designed to suit various group sizes, from intimate tables for two to larger setups for family gatherings and celebrations. Each table is set with elegant tableware and fresh flowers, adding a touch of sophistication to your dining experience.
 
+### Outdoor Patio
+For those who prefer dining al fresco, our charming outdoor patio is the perfect spot. Surrounded by greenery and adorned with fairy lights, the patio offers a tranquil escape from the hustle and bustle of the city. It's an ideal setting for enjoying a leisurely meal on a warm evening or a sunny afternoon.
+
 
 ## Our Commitment
 At Ouzza Restaurant, we are dedicated to using the freshest, highest quality ingredients in all of our dishes. Our pizzas are crafted with hand-tossed dough, homemade tomato sauce, and a blend of premium cheeses. We also offer a variety of gluten-free, vegetarian, and vegan options to cater to all dietary preferences.
