@@ -21,6 +21,8 @@ On weekends, Ouzza comes alive with the sounds of local musicians. Our live musi
 ## Our Commitment to Quality
 At Ouzza Restaurant, we are passionate about food. Our chefs use only the freshest, highest-quality ingredients to prepare our dishes. From hand-tossed pizza dough to homemade sauces, every element of our menu is crafted with care and expertise.
 
+### Fresh Ingredients
+We source our ingredients from local farmers and trusted suppliers to ensure that every dish is as fresh and flavorful as possible. Our commitment to quality means that we never compromise on taste.
 
 ## Special Events and Catering
 Looking to host a special event? Ouzza Restaurant offers catering services for parties, corporate events, and family gatherings. Our team will work with you to create a customized menu that fits your needs and ensures a memorable experience for your guests.
