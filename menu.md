@@ -36,8 +36,11 @@
 - Breaded and fried mozzarella sticks served with marinara sauce - $7.99
 
 ## Salads
-### Caesar Salad
-- Romaine lettuce, croutons, parmesan cheese, Caesar dressing - $8.99
+- **Caesar Salad**: Romaine lettuce, croutons, parmesan cheese, Caesar dressing - $8.99
+- **Greek Salad**: Mixed greens, tomatoes, cucumbers, olives, feta cheese, red onions, Greek dressing - $9.99
+- **Caprese Salad**: Fresh mozzarella, tomatoes, basil, balsamic glaze - $10.49
+- **Arugula Salad**: Arugula, cherry tomatoes, shaved parmesan, lemon vinaigrette - $9.49
+- **Spinach Salad**: Spinach, strawberries, goat cheese, walnuts, balsamic vinaigrette - $9.99
 
 ### Greek Salad
 - Mixed greens, tomatoes, cucumbers, olives, feta cheese, red onions, Greek dressing - $9.99
