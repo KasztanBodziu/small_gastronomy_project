@@ -1,6 +1,7 @@
 # Description of Our Place
 
-Welcome to Ouzza Restaurant! Our establishment is a cozy, family-friendly pizzeria located in the heart of the city. We take pride in offering a warm and inviting atmosphere where guests can enjoy delicious, authentic Italian cuisine.
+Welcome to Ouzza Restaurant, where we bring the authentic flavors of Italy to the heart of Cityville. Our establishment is designed to provide a cozy, family-friendly environment while offering an exceptional dining experience that caters to all tastes and preferences.
+
 
 ## Our Ambiance
 Ouzza Restaurant features a modern rustic design that combines comfort and style. Our interior boasts wooden tables, brick walls, and soft ambient lighting to create a welcoming environment. The seating arrangement is designed to accommodate both small and large groups, making it the perfect spot for family dinners, casual meet-ups, or romantic date nights.
