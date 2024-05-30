@@ -12,6 +12,9 @@ Our indoor dining area is spacious and comfortable, accommodating up to 50 guest
 ### Outdoor Patio
 For those who prefer dining al fresco, our charming outdoor patio is the perfect spot. Surrounded by greenery and adorned with fairy lights, the patio offers a tranquil escape from the hustle and bustle of the city. It's an ideal setting for enjoying a leisurely meal on a warm evening or a sunny afternoon.
 
+### Children's Play Area
+We understand the importance of keeping little ones entertained. Our designated children's play area is equipped with safe and fun activities, allowing parents to enjoy their meal while the kids have a great time.
+
 
 ## Our Commitment
 At Ouzza Restaurant, we are dedicated to using the freshest, highest quality ingredients in all of our dishes. Our pizzas are crafted with hand-tossed dough, homemade tomato sauce, and a blend of premium cheeses. We also offer a variety of gluten-free, vegetarian, and vegan options to cater to all dietary preferences.
