@@ -21,8 +21,13 @@
   - $1.50 per topping
 
 ## Appetizers
-### Garlic Bread
-- Toasted bread with garlic butter and herbs - $4.99
+- **Garlic Bread**: Toasted bread with garlic butter and herbs - $4.99
+- **Bruschetta**: Grilled bread topped with tomatoes, garlic, basil, and olive oil - $6.99
+- **Mozzarella Sticks**: Breaded and fried mozzarella sticks served with marinara sauce - $7.99
+- **Calamari**: Lightly breaded and fried calamari served with marinara sauce - $9.99
+- **Caprese Skewers**: Cherry tomatoes, fresh mozzarella, basil, and balsamic glaze - $8.99
+- **Stuffed Mushrooms**: Mushrooms stuffed with garlic, herbs, and breadcrumbs - $7.49
+
 
 ### Bruschetta
 - Grilled bread topped with tomatoes, garlic, basil, and olive oil - $6.99
