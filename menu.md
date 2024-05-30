@@ -61,14 +61,30 @@
 - **Limoncello Cake**: Light and tangy lemon cake, topped with a limoncello glaze - $6.99
 
 ## Drinks
-### Soft Drinks
-- Coke, Diet Coke, Sprite, Fanta - $2.99
+### Non-Alcoholic
+- **Soft Drinks**: Coke, Diet Coke, Sprite, Fanta - $2.99
+- **Sparkling Water**: San Pellegrino - $3.49
+- **Still Water**: Acqua Panna - $2.99
+- **Iced Tea**: Lemon, Peach, Green Tea - $2.99
+- **Coffee**: Espresso, Cappuccino, Latte - $3.99
+- **Tea**: Green Tea, Black Tea, Herbal Tea - $2.99
 
-### Coffee
-- Espresso, Cappuccino, Latte - $3.99
+### Alcoholic
+- **Wine**: 
+  - Red: Cabernet Sauvignon, Merlot, Chianti - $7.99 per glass, $29.99 per bottle
+  - White: Chardonnay, Pinot Grigio, Sauvignon Blanc - $7.99 per glass, $29.99 per bottle
+  - Rosé: Provence Rosé - $7.99 per glass, $29.99 per bottle
+- **Beer**: 
+  - Local and imported beers - $5.99 per bottle
+- **Cocktails**: 
+  - Classic Margarita - $8.99
+  - Italian Negroni - $9.99
+  - Aperol Spritz - $8.99
+  - Bellini - $8.49
 
-### Tea
-- Green Tea, Black Tea, Herbal Tea - $2.99
+### Specialty Drinks
+- **Italian Soda**: Flavored sparkling water with a splash of cream - $3.99
+- **Limoncello**: Traditional Italian lemon liqueur - $5.99 per shot
 
 ### Wine
 - Red, White, Rosé - $7.99 per glass
