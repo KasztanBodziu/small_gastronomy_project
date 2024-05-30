@@ -4,7 +4,7 @@ Welcome to Ouzza Restaurant, where we bring the authentic flavors of Italy to th
 
 
 ## Our Ambiance
-Ouzza Restaurant features a modern rustic design that combines comfort and style. Our interior boasts wooden tables, brick walls, and soft ambient lighting to create a welcoming environment. The seating arrangement is designed to accommodate both small and large groups, making it the perfect spot for family dinners, casual meet-ups, or romantic date nights.
+Ouzza Restaurant features a harmonious blend of modern and rustic design elements. As you step through our doors, you'll be greeted by the warm glow of soft ambient lighting that perfectly complements our wooden tables and brick walls. The decor is thoughtfully curated to create an inviting atmosphere where you can relax and enjoy your meal.
 
 ## Features
 - **Comfortable Seating**: Our restaurant can comfortably seat up to 50 guests at a time, with options for both indoor and outdoor dining.
