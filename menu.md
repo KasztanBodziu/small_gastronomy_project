@@ -48,3 +48,26 @@
 
 ### Penne Arrabbiata
 - Penne pasta with spicy tomato sauce - $11.99
+
+## Desserts
+### Tiramisu
+- Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream - $6.99
+
+### Gelato
+- Italian ice cream available in various flavors: vanilla, chocolate, strawberry - $5.99
+
+## Drinks
+### Soft Drinks
+- Coke, Diet Coke, Sprite, Fanta - $2.99
+
+### Coffee
+- Espresso, Cappuccino, Latte - $3.99
+
+### Tea
+- Green Tea, Black Tea, Herbal Tea - $2.99
+
+### Wine
+- Red, White, Rosé - $7.99 per glass
+
+### Beer
+- Local and imported beers - $5.99
