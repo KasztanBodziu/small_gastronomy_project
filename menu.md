@@ -1,17 +1,19 @@
 # Menu
 
 ## Pizzas
-- **Margherita** - $10
-  - Classic pizza with tomato sauce, mozzarella, and fresh basil.
-- **Pepperoni** - $12
-  - Spicy pepperoni, mozzarella, and tomato sauce.
-- **Veggie** - $11
-  - A mix of seasonal vegetables, mozzarella, and tomato sauce.
+- Margherita: Tomato, Mozzarella, Basil - $8.99
+- Pepperoni: Tomato, Mozzarella, Pepperoni - $9.99
+- Veggie: Tomato, Mozzarella, Bell Peppers, Onions, Olives, Mushrooms - $9.49
+
+## Appetizers
+- Garlic Bread: Toasted bread with garlic and herbs - $3.99
+- Bruschetta: Grilled bread topped with tomatoes, garlic, and basil - $4.99
 
 ## Drinks
-- **Soda** - $2
-  - Choose from cola, lemon-lime, or root beer.
-- **Water** - $1
-  - Bottled still water.
-"- **Four Cheese** - $13" 
-"- **Calzone** - $14" 
+- Soft Drinks: Coke, Sprite, Fanta - $1.99
+- Coffee: Regular, Espresso, Cappuccino - $2.99
+- Tea: Green, Black, Herbal - $1.99
+
+## Desserts
+- Tiramisu: Classic Italian dessert - $5.99
+- Gelato: Choice of Vanilla, Chocolate, or Strawberry - $3.99
