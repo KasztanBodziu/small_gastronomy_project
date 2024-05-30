@@ -24,3 +24,9 @@ To provide a memorable dining experience with high-quality pizzas made from fres
 - **Marketing**: Leverage social media and local advertising to attract customers.
 - **Operations**: Maintain high standards of cleanliness and food safety.
 - **Customer Service**: Train staff to provide exceptional service and create a welcoming environment.
+
+## Appendices
+- **Menu**: Include a detailed menu with descriptions and prices of all items.
+- **Floor Plan**: Provide a floor plan of the restaurant layout.
+- **Resumes**: Include resumes of the owners and key staff members.
+- **Market Research Data**: Attach any relevant market research data supporting your business plan.
