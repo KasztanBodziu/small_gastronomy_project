@@ -6,8 +6,8 @@ Our cozy interior designed to make you feel at home.
 ![Pizza](pizza2.jpg)
 A delicious pizza straight from the oven.
 
-![Pizza](pizza3.jpg)
+![Pizza](pizza4.jpg)
 Another delicious pizza straight from the oven.
 
-![Dish](pizza4.jpg)
+![Dish](pizza3.jpg)
 Our diffrent dish - still delicious.
