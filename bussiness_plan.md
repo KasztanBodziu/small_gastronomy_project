@@ -3,6 +3,11 @@
 ## Vision
 Our vision is to become the leading pizzeria in the city, known for our quality ingredients, excellent customer service, and welcoming atmosphere.
 
+**Target Market**:
+- **Families**: Offering a family-friendly environment with a children's play area.
+- **Young Professionals**: Attracting young adults looking for a cozy spot to dine and socialize.
+- **Food Enthusiasts**: Appealing to those who appreciate high-quality, authentic Italian cuisine.
+
 ## Mission
 To provide a memorable dining experience with high-quality pizzas made from fresh ingredients and served in a friendly environment.
 
