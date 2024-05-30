@@ -1,23 +1,13 @@
 # Ouzza Restaurant Menu
 
 ## Pizzas
-### Margherita
-- Tomato sauce, mozzarella, fresh basil - $10.99
+### Classic Pizzas
+- **Margherita**: Tomato sauce, mozzarella, fresh basil - $10.99
+- **Pepperoni**: Tomato sauce, mozzarella, pepperoni - $11.99
+- **Hawaiian**: Tomato sauce, mozzarella, ham, pineapple - $11.99
+- **Four Cheese**: Tomato sauce, mozzarella, parmesan, gorgonzola, goat cheese - $13.49
+- **Vegetarian**: Tomato sauce, mozzarella, bell peppers, onions, mushrooms, olives - $12.49
 
-### Pepperoni
-- Tomato sauce, mozzarella, pepperoni - $11.99
-
-### Veggie Delight
-- Tomato sauce, mozzarella, bell peppers, onions, mushrooms, olives - $12.49
-
-### BBQ Chicken
-- BBQ sauce, mozzarella, grilled chicken, red onions, cilantro - $13.99
-
-### Hawaiian
-- Tomato sauce, mozzarella, ham, pineapple - $11.99
-
-### Four Cheese
-- Tomato sauce, mozzarella, parmesan, gorgonzola, goat cheese - $13.49
 
 ## Appetizers
 ### Garlic Bread
