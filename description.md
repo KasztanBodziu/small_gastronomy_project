@@ -6,13 +6,9 @@ Welcome to Ouzza Restaurant, where we bring the authentic flavors of Italy to th
 ## Our Ambiance
 Ouzza Restaurant features a harmonious blend of modern and rustic design elements. As you step through our doors, you'll be greeted by the warm glow of soft ambient lighting that perfectly complements our wooden tables and brick walls. The decor is thoughtfully curated to create an inviting atmosphere where you can relax and enjoy your meal.
 
-## Features
-- **Comfortable Seating**: Our restaurant can comfortably seat up to 50 guests at a time, with options for both indoor and outdoor dining.
-- **Outdoor Patio**: Enjoy your meal al fresco on our charming outdoor patio, perfect for warm evenings and sunny days.
-- **Free Wi-Fi**: Stay connected with our complimentary high-speed Wi-Fi, available for all guests.
-- **Wheelchair Accessible**: We are committed to ensuring that all guests can enjoy their time at Ouzza, with wheelchair-accessible entrances and facilities.
-- **Children's Play Area**: Our designated play area keeps the little ones entertained, allowing parents to relax and enjoy their meal.
-- **Live Music**: On weekends, enjoy live music performances by local artists, enhancing your dining experience with delightful tunes.
+### Indoor Seating
+Our indoor dining area is spacious and comfortable, accommodating up to 50 guests. The seating arrangements are designed to suit various group sizes, from intimate tables for two to larger setups for family gatherings and celebrations. Each table is set with elegant tableware and fresh flowers, adding a touch of sophistication to your dining experience.
+
 
 ## Our Commitment
 At Ouzza Restaurant, we are dedicated to using the freshest, highest quality ingredients in all of our dishes. Our pizzas are crafted with hand-tossed dough, homemade tomato sauce, and a blend of premium cheeses. We also offer a variety of gluten-free, vegetarian, and vegan options to cater to all dietary preferences.
