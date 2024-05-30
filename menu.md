@@ -28,25 +28,12 @@
 - **Caprese Skewers**: Cherry tomatoes, fresh mozzarella, basil, and balsamic glaze - $8.99
 - **Stuffed Mushrooms**: Mushrooms stuffed with garlic, herbs, and breadcrumbs - $7.49
 
-
-### Bruschetta
-- Grilled bread topped with tomatoes, garlic, basil, and olive oil - $6.99
-
-### Mozzarella Sticks
-- Breaded and fried mozzarella sticks served with marinara sauce - $7.99
-
 ## Salads
 - **Caesar Salad**: Romaine lettuce, croutons, parmesan cheese, Caesar dressing - $8.99
 - **Greek Salad**: Mixed greens, tomatoes, cucumbers, olives, feta cheese, red onions, Greek dressing - $9.99
 - **Caprese Salad**: Fresh mozzarella, tomatoes, basil, balsamic glaze - $10.49
 - **Arugula Salad**: Arugula, cherry tomatoes, shaved parmesan, lemon vinaigrette - $9.49
 - **Spinach Salad**: Spinach, strawberries, goat cheese, walnuts, balsamic vinaigrette - $9.99
-
-### Greek Salad
-- Mixed greens, tomatoes, cucumbers, olives, feta cheese, red onions, Greek dressing - $9.99
-
-### Caprese Salad
-- Fresh mozzarella, tomatoes, basil, balsamic glaze - $10.49
 
 ## Pastas
 - **Spaghetti Bolognese**: Spaghetti with hearty meat sauce - $12.99
@@ -58,11 +45,12 @@
 - **Carbonara**: Spaghetti with pancetta, egg, parmesan, and black pepper - $13.99
 
 
-### Fettuccine Alfredo
-- Fettuccine pasta with creamy Alfredo sauce - $13.99
-
-### Penne Arrabbiata
-- Penne pasta with spicy tomato sauce - $11.99
+## Main Courses
+- **Chicken Parmesan**: Breaded chicken breast topped with marinara and mozzarella, served with spaghetti - $15.99
+- **Grilled Salmon**: Grilled salmon fillet with lemon butter sauce, served with roasted vegetables - $17.99
+- **Eggplant Parmigiana**: Breaded eggplant slices topped with marinara and mozzarella, served with spaghetti - $13.99
+- **Veal Marsala**: Veal cutlets sautéed with mushrooms in Marsala wine sauce, served with mashed potatoes - $19.99
+- **Shrimp Scampi**: Shrimp sautéed in garlic, lemon, and white wine sauce, served over linguine - $16.99
 
 ## Desserts
 ### Tiramisu
