@@ -37,3 +37,23 @@ One of the highlights of dining at Ouzza Restaurant is the ability to customize 
 
 ### Catering and Events
 Planning a special event? Ouzza Restaurant offers catering services for parties, corporate events, and family gatherings. Our team will work with you to create a customized menu that fits your needs and ensures a memorable experience for your guests. We also offer private dining options for those looking to host an event in a more intimate setting.
+
+### Seasonal Specials
+Our menu changes with the seasons to take advantage of the freshest produce available. Be sure to ask about our seasonal specials, which feature unique and delicious dishes that are only available for a limited time.
+
+### Sustainability
+We are committed to sustainability and strive to minimize our environmental impact. From using eco-friendly packaging for takeout orders to implementing energy-saving practices in our kitchen, we are dedicated to making a positive difference.
+
+## Our Story
+Ouzza Restaurant was founded in 2023 by a group of friends who shared a love for Italian cuisine and a vision of creating a welcoming space for the community. After traveling to Italy and learning from master pizzaiolos, they returned home with a deep appreciation for traditional Italian cooking techniques and a desire to share these flavors with their hometown.
+
+### Our Team
+Our team is composed of passionate and dedicated individuals who are committed to providing the best possible dining experience. From our talented chefs to our friendly servers, everyone at Ouzza Restaurant plays a vital role in making your visit special. We believe in treating our staff like family, and this sense of camaraderie is reflected in the warm and welcoming atmosphere of our restaurant.
+
+### Our Mission
+Our mission is to bring people together through the joy of food. Whether you're here for a quick lunch, a family dinner, or a special celebration, we aim to make every meal at Ouzza Restaurant an unforgettable experience.
+
+## Visit Us
+We invite you to come and experience the best of Italian cuisine at Ouzza Restaurant. Our doors are always open, and we look forward to welcoming you and serving you a meal that you'll love.
+
+Thank you for choosing Ouzza Restaurant. We can't wait to see you!
