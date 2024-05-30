@@ -24,13 +24,13 @@ At Ouzza Restaurant, we are passionate about food. Our chefs use only the freshe
 ### Fresh Ingredients
 We source our ingredients from local farmers and trusted suppliers to ensure that every dish is as fresh and flavorful as possible. Our commitment to quality means that we never compromise on taste.
 
-## Special Events and Catering
-Looking to host a special event? Ouzza Restaurant offers catering services for parties, corporate events, and family gatherings. Our team will work with you to create a customized menu that fits your needs and ensures a memorable experience for your guests.
-
 ### Dietary Options
 We cater to a variety of dietary preferences and requirements. Our menu includes gluten-free, vegetarian, and vegan options, ensuring that everyone can find something to enjoy. If you have any specific dietary needs, please let us know, and we'll do our best to accommodate you.
-
 
 We invite you to come and experience the best of Italian cuisine at Ouzza Restaurant. Whether you're stopping by for a quick lunch or enjoying a leisurely dinner, we guarantee a delightful dining experience that will keep you coming back for more.
 
 We look forward to welcoming you to Ouzza Restaurant!
+
+## Special Features
+### Customizable Menu
+One of the highlights of dining at Ouzza Restaurant is the ability to customize your meal. Our build-your-own pizza option allows you to create a pizza that perfectly suits your tastes. Choose from a wide range of toppings and watch as our chefs prepare your pizza in our open kitchen.
