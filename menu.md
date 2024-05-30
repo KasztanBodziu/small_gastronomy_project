@@ -15,6 +15,10 @@
 - **Spicy Sausage**: Tomato sauce, mozzarella, spicy Italian sausage, bell peppers - $13.99
 - **Seafood**: Tomato sauce, mozzarella, shrimp, calamari, garlic, parsley - $15.99
 
+### Custom Pizzas
+- **Build Your Own**: Start with a cheese pizza and add your favorite toppings:
+  - Toppings: Pepperoni, Sausage, Ham, Bacon, Mushrooms, Onions, Bell Peppers, Olives, Jalapeños, Pineapple, Fresh Basil, Spinach, Artichokes, Sun-Dried Tomatoes, Chicken, Anchovies
+  - $1.50 per topping
 
 ## Appetizers
 ### Garlic Bread
