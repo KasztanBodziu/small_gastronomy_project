@@ -1,10 +1,13 @@
 # Gallery
 
-![Interior](images/interior.jpg)
+![Interior](pizza1.jpg)
 Our cozy interior designed to make you feel at home.
 
-![Pizza](images/pizza.jpg)
-A delicious Margherita pizza straight from the oven.
+![Pizza](pizza2.jpg)
+A delicious pizza straight from the oven.
 
-![Logo](images/logo.png)
-Our pizzeria logo.
+![Pizza](pizza3.jpg)
+Another delicious pizza straight from the oven.
+
+![Logo](pizza4.jng)
+Our diffrent dish - still delicious.
