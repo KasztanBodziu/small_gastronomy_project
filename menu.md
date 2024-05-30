@@ -53,11 +53,12 @@
 - **Shrimp Scampi**: Shrimp sautéed in garlic, lemon, and white wine sauce, served over linguine - $16.99
 
 ## Desserts
-### Tiramisu
-- Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream - $6.99
-
-### Gelato
-- Italian ice cream available in various flavors: vanilla, chocolate, strawberry - $5.99
+- **Tiramisu**: Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream - $6.99
+- **Gelato**: Italian ice cream available in various flavors: vanilla, chocolate, strawberry - $5.99
+- **Cannoli**: Crispy pastry shells filled with sweet ricotta cream - $5.49
+- **Panna Cotta**: Creamy Italian dessert with a hint of vanilla, served with berry sauce - $6.49
+- **Chocolate Lava Cake**: Warm chocolate cake with a gooey center, served with vanilla ice cream - $7.49
+- **Limoncello Cake**: Light and tangy lemon cake, topped with a limoncello glaze - $6.99
 
 ## Drinks
 ### Soft Drinks
