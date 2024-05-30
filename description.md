@@ -27,6 +27,10 @@ We source our ingredients from local farmers and trusted suppliers to ensure tha
 ## Special Events and Catering
 Looking to host a special event? Ouzza Restaurant offers catering services for parties, corporate events, and family gatherings. Our team will work with you to create a customized menu that fits your needs and ensures a memorable experience for your guests.
 
+### Dietary Options
+We cater to a variety of dietary preferences and requirements. Our menu includes gluten-free, vegetarian, and vegan options, ensuring that everyone can find something to enjoy. If you have any specific dietary needs, please let us know, and we'll do our best to accommodate you.
+
+
 We invite you to come and experience the best of Italian cuisine at Ouzza Restaurant. Whether you're stopping by for a quick lunch or enjoying a leisurely dinner, we guarantee a delightful dining experience that will keep you coming back for more.
 
 We look forward to welcoming you to Ouzza Restaurant!
