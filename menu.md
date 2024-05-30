@@ -49,8 +49,14 @@
 - Fresh mozzarella, tomatoes, basil, balsamic glaze - $10.49
 
 ## Pastas
-### Spaghetti Bolognese
-- Spaghetti with hearty meat sauce - $12.99
+- **Spaghetti Bolognese**: Spaghetti with hearty meat sauce - $12.99
+- **Fettuccine Alfredo**: Fettuccine pasta with creamy Alfredo sauce - $13.99
+- **Penne Arrabbiata**: Penne pasta with spicy tomato sauce - $11.99
+- **Linguine with Clams**: Linguine pasta with clams, garlic, white wine sauce - $15.49
+- **Ravioli di Ricotta**: Ricotta-filled ravioli with tomato basil sauce - $14.99
+- **Lasagna**: Layers of pasta, meat sauce, ricotta, mozzarella, and parmesan - $14.99
+- **Carbonara**: Spaghetti with pancetta, egg, parmesan, and black pepper - $13.99
+
 
 ### Fettuccine Alfredo
 - Fettuccine pasta with creamy Alfredo sauce - $13.99
